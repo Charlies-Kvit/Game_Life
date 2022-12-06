@@ -1,2 +1,2 @@
 # Game_Life
-Geame "Life" on Python
+Game "Life" on Python
